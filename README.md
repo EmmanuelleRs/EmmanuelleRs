@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @EmmanuelleCode
-- 👀 I’m interested in computer science, math and physics, but also in psychology an so forth.
-- 🌱 I’m currently learning Golang and AWS
-- 💞️ I’m looking to collaborate on big tech an start ups
-- 📫 Please send and email to hello@emmanuellecode.com
+# Emmanuelle Raya
+
+Self-taught, curious and proactive Sr Software Engineer whit experience
+in Python and JavaScript
+
+## Main Stack
+
+- Python (Django)
+- Javascript (ReactJs)
+
+## Qualyties
+
+- Software Development
+- Algoriths Design
+- Data Structures
+- Some DeOps Knowledge
+
 
 <!---
 EmmanuelleRs/EmmanuelleRs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
