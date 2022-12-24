@@ -7,8 +7,9 @@ in Python and JavaScript
 
 - Python (Expert)
 - Javascript (Expert)
+- SQL Advanced
 
-## Qualyties
+## Qualities
 
 - Software Development
 - Algoriths Design
