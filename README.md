@@ -5,8 +5,8 @@ in Python and JavaScript
 
 ## Main Stack
 
-- Python (Django)
-- Javascript (ReactJs)
+- Python (Expert)
+- Javascript (Expert)
 
 ## Qualyties
 
