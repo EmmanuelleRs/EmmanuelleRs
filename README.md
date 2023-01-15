@@ -1,20 +1,23 @@
-# Emmanuelle Raya
+# 👋🏻 Emmanuelle Raya
 
-Self-taught, curious and proactive Sr Software Engineer whit experience
-in Python and JavaScript
+I'm a self-taught software engineer, I studied Math and Physics career at IPN Mexico, and I found my passion for software development after taking a programming course in Python. This passion relies on finding the best solution to problems using math and logic. As a self-taught software engineer, I practice and study everyday topics about data structures, design patterns, software development, and so forth. It helps me to stay competitive and write scalable and reliable software
 
-## Main Stack
+## 👨🏻‍💻 Programming Languages
 
 - Python (Expert)
 - Javascript (Expert)
-- SQL Advanced
 
-## Qualities
+## 🥷🏼 Qualities
 
 - Software Development
 - Algoriths Design
 - Data Structures
-- Some DeOps Knowledge
+- DevOps Knowledge
+
+## 🛸 Personal Project
+
+- [Web blog](https://blog.emmanuellecode.com) for Software Development
+
 
 
 <!---
